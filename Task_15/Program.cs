@@ -11,5 +11,5 @@ switch (is_weekday) // Проще через if, через switch..case реш�
     case 5: Console.WriteLine("Weekday"); break;
     case 6: Console.WriteLine("Holiday"); break;
     case 7: Console.WriteLine("Holiday"); break;
-    default: Console.WriteLine("I have just 7 days of the week"); break;
+    default: Console.WriteLine("I know just 7 days of the week"); break;
 }
